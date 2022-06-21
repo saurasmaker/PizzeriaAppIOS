@@ -1,0 +1,7 @@
+{
+    "tamanos":["pequena", "mediana", "grande"]
+    "masas":["fina", "gruesa", "rellena"]
+    "pizzas":["margarita", "Tuna", "4 quesos", "carbonara", "barbacoa"]
+    "quesos":["mozzarela, cheddar, parmesano, sin queso"]
+    "ingredientes":["jamon cocido","atun","bacon","salami","champiñon","pimiento","cebolla","tomate cherry","piña","anchoa","jamon serrano","pollo","pavo","salchicha","aceituna"]
+}
